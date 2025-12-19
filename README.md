@@ -11,7 +11,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/cabra404)
 [![Discord](https://img.shields.io/badge/Discord-cabr4sec-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/cabr4sec)
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/3330310.png)](https://tryhackme.com/p/3330310)
+[![TryHackMe Badge](<img src="https://tryhackme-badges.s3.amazonaws.com/cabrasec.png" alt="Seu crachá de imagem" />)
 
 ## 📊 GitHub Stats
 ![Jackeline's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackeline&show_icons=true&theme=radical)

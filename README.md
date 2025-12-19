@@ -18,5 +18,4 @@ and moooore!
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/cabrasec.png)](https://tryhackme.com/p/cabrasec)
 
 ## 📊 GitHub Stats
-![Jackeline's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackeline&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jackeline&layout=compact&theme=radical)

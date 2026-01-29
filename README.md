@@ -4,7 +4,7 @@ heyou!
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-and moooore!
+...
 
 ## 🕵️ About me
 💻 I work with **hacking & cybersecurity**, exploring vulnerabilities and building safer systems.  
